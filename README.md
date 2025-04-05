@@ -20,3 +20,5 @@ for images, labels in train_ds.take(1):
         plt.axis("off")
 ```
 ![sample corn leaf images](images/sample-corn-leaf-images.png)
+
+
