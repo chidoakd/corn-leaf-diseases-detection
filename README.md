@@ -24,4 +24,3 @@ for images, labels in train_ds.take(1):
 **
 ***
 ****
-******
